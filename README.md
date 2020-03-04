@@ -7,9 +7,24 @@
 
 此部分文件目前存放于度盘，同时有本地备份。若链接失效请email：mouyains@foxmail.com
 
-链接：https://pan.baidu.com/s/1u6oPbL6EVY_dxKB4L8Pw8w 
+链接：https://pan.baidu.com/s/1u6oPbL6EVY_dxKB4L8Pw8w              
 提取码：tjuz 
 
 
 度盘文件列表：
-[图片]
+
+  城主指南普清版.pdf
+  
+  Arms_and_Equipment_Guide(3E).pdf
+  
+  无限TRPG核心规则2.33正式版.pdf
+  
+  Cyberpunk 2020 - CP3002 Core Rulebook v2.01 (new art).pdf
+  
+  Paranoia-2nd-Edition.pdf
+  
+  ParticleBuilder.zip
+  
+  PGtF中文电子版.pdf
+  
+  Pathfinder v1.8 简体.chm
